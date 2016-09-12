@@ -22,7 +22,7 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
-# The Responders gem lets you apply the respond_to action to all of your controllers
+# The Responders gem lets you apply the respond_to rule to all the actions in our controllers
 gem 'responders'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
