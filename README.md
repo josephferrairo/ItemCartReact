@@ -1,25 +1,6 @@
-# README
+# Item Cart Made with React
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple tutorial showing you how to build a CRUD interface utilizing the react-rails gem
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ItemCartReact
+[Link to Tutorial](http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails)
